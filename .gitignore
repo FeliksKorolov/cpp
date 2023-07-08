@@ -1,1 +1,9 @@
 .vs/
+.gitignore
+itProger.slp
+itProger/itProger.vcxproj
+itProger/itProger.vcxproj.filters
+itProger/itProger.vcxproj.user
+itProger/x64/
+x64/
+
